@@ -1,0 +1,73 @@
+nav {
+	display: block;
+	height: 100px;
+	padding: 20px;
+}
+
+nav i {
+	float: left;
+	position: relative;
+	top: 30px;
+	color: #E6B0BD;
+}
+
+nav h1 {
+	float: left;
+	font-size: 1.5em;
+	position: relative;
+	top: 20px;
+	padding-left: 7px;
+
+}
+
+nav span {
+	display: block;
+	padding-left: 20px;
+
+}
+
+nav ul {
+	float: right;
+	padding-right: 20px;
+	position: relative;
+	top: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 0 15px;
+
+}
+
+
+
+.header {
+	text-align: center;
+}
+
+.header p {
+	padding-top: 50px;
+	font-size: 30px;
+	margin: 0;
+
+}
+
+.header p span {
+	color: #E6B0BD;
+}
+
+.header h5 {
+
+}
+
+.header img {
+	width: 95%;
+	height: 350px;
+	padding: 20px 0;
+}
+
+.about, .work {
+	width: 45%;
+	display: inline-block;
+	text-align: center;
+}
